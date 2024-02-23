@@ -125,7 +125,12 @@
 			},1);
 			</script>
 		</div>
-		<div style="text-align: center;margin-top: 15px;">
+		<div style="margin-top:15px ;text-align: center;">
+		<a href="https://afdian.net/a/CN_1320">
+		<button>帮助作者购买服务器哭（/TДT)/求</button>
+		</a>
+		</div>
+				<div style="text-align: center;margin-top: 15px;">
 			Minecraft java Edition download site v0.0.1 by CHCAT1320
 		</div>
 		<div id="watermarkId"></div>
