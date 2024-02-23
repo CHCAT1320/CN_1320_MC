@@ -1,5 +1,5 @@
 // body宽高
-  let cw = 530,ch =650//1950 757
+  let cw = 530,ch =530//1950 757
   let body = document.getElementById('body')
   body.style.width = `${cw}px`
   body.style.height = `${ch}px`
@@ -37,7 +37,7 @@
           watermark_color: '#000000',//水印字体颜色
           watermark_alpha: 0.15,//水印透明度
           watermark_fontsize: '15px',//水印字体大小
-          watermark_font: '../../fonts/cmdysj.ttf',//水印字体
+          watermark_font: 'fonts/cmdysj.ttf',//水印字体
           watermark_width: 5,//水印宽度
           watermark_height: 15,//水印长度
           watermark_angle: 25//水印倾斜度数
@@ -110,3 +110,4 @@
   };
   
   watermarkUtils({ watermark_txt: "@CHCAT1320", watermark_width: 120, watermark_fontsize: "14px" }, watermarkId);
+  
